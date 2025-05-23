@@ -98,7 +98,7 @@
 //   render() {
 //     return (
 //       <div className="app">
-//         <h1>Classy Weather</h1>
+//         <h1>Weather Pulse</h1>
 //         <input location={this.state.location} onChange={this.setLocation} placeholder="search from location" />
 
 //         {this.state.isLoading && <p classname="loader">Loading...</p>}
@@ -384,7 +384,7 @@ function App() {
       <DarkModeToggle isDarkMode={isDarkMode} toggleDarkMode={toggleDarkMode} />
 
       <div className="app">
-        <h1>Classy Weather</h1>
+        <h1>Weather Pulse</h1>
 
         <div className="search-container">
           <input

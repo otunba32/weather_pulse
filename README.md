@@ -2,7 +2,7 @@
 
 A beautiful, responsive weather application built with React that provides a 7-day weather forecast for any location worldwide, featuring elegant animations and a dark mode toggle.
 
-![Weather Pulse App Screenshot](https://placeholder.svg?height=400&width=800)
+![Weather Pulse App Screenshot](./src/assets/weatherPulse.jpg)
 
 ## Features
 
@@ -60,8 +60,8 @@ The app is fully responsive and works on all screen sizes using plain CSS media 
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/classy-weather.git
-   cd classy-weather
+   git clone https://github.com/otunba32/weather_pulse
+   cd weather-pulse
    \`\`\`
 
 2. Install dependencies:
